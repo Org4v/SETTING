@@ -1,0 +1,4 @@
+const settings = {
+ kill: "false",
+ whitelist: ["", ""]
+ Fu
